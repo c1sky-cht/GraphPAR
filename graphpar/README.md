@@ -1,0 +1,2 @@
+放在GammaGL/examples/graphpar路径下
+graphpar文件夹为自己创建
